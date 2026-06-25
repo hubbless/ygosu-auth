@@ -1,0 +1,1 @@
+# ygosu-auth
